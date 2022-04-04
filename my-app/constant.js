@@ -1,0 +1,5 @@
+ export const BUTTON_TYPE = {
+    INCREMENT:"INCREMENT",
+    DECREMENT:"DECREMENT"
+
+}
